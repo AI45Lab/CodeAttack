@@ -10,7 +10,7 @@ authors = [{name = 'Qibing Ren'}]
 description = 'CodeAttack'
 readme = 'README.md'
 license = {file = 'LICENSE'}
-requires-python = '> 3.8, < 3.13'
+requires-python = '> 3.8'
 classifiers = [
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.9',
